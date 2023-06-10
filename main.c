@@ -1,15 +1,11 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
 
-Initial Security()
-{
- //Sample Code
-}
+=================Master Branch================
 
+#Code in Python
 
+print("Hi, This is from master branch")
 
-}
+exit()
+
+==============================================
+	
